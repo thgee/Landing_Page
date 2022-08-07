@@ -28,7 +28,7 @@ body {
 .large_text {
   font-size: 2rem;
   font-weight: bold;
-  padding-right: 8px;
+  padding: 0 8px;
   position: relative;
 }
 
