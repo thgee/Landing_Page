@@ -1,10 +1,11 @@
 :root {
   --background-color: #ff9e80;
-  --icon-color: lightgreen;
+  --icon-color: #ffd0b0;
 }
 
 * {
   margin: 0;
+  color: #452d26;
 }
 
 body {
@@ -30,10 +31,6 @@ body {
   font-weight: bold;
   padding: 0 8px;
   position: relative;
-}
-
-.small_text {
-  font-size: 1rem;
 }
 
 .large_text::after {
